@@ -1,3 +1,2 @@
-# Clasificación de Imágenes con Transformers - Practicas - Modulo 2
-En este repositorio se encuentra el .ipynb necesario para la practica 1 del Modulo 2.
-Obtendremos imagenes de una pagina web para poblar una nueva clase de nuestro conjunto de datos.
+# Clasificación de Imágenes con Transformers - Prácticas - Módulo 2
+En este repositorio se encuentra el archivo .ipynb necesario para la práctica 1 del Módulo 2. Obtendremos imágenes de una página web para poblar una nueva clase de nuestro conjunto de datos.
