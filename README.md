@@ -1,1 +1,1 @@
-# Clasificaci-n-de-Im-genes-con-Transformers---Practicas
+# Clasificación de Imágenes con Transformers - Practicas
